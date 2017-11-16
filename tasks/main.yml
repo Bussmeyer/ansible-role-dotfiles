@@ -1,0 +1,14 @@
+---
+
+- name: .gitignore config
+  template:
+    src: templates/gitignore_global
+    dest: ~/.gitignore_global
+  tags:
+    - dotfiles
+- name: .editorconfig config
+  template:
+    src: templates/editorconfig
+    dest: ~/.editorconfig
+  tags:
+    - dotfiles
