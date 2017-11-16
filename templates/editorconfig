@@ -1,5 +1,5 @@
-# editorconfig.org
 # {{ ansible_managed }}
+# editorconfig.org
 
 root = true
 
