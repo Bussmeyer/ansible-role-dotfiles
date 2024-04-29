@@ -1,5 +1,5 @@
 # {{ ansible_managed }}
-# editorconfig.org
+# See https://github.com/Bussmeyer/ansible-role-dotfiles
 
 root = true
 
