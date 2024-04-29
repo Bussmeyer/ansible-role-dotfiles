@@ -1,12 +1,12 @@
 ---
 
-- name: .gitignore config
+- name: Set global .gitignore config
   template:
     src: templates/gitignore_global
     dest: ~/.gitignore_global
   tags:
     - dotfiles
-- name: .editorconfig config
+- name: Set global .editorconfig config
   template:
     src: templates/editorconfig
     dest: ~/.editorconfig
