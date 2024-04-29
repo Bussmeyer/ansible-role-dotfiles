@@ -1,5 +1,5 @@
 # {{ ansible_managed }}
-# https://github.com/mathiasbynens/dotfiles/blob/master/.gitignore
+# See https://github.com/Bussmeyer/ansible-role-dotfiles
 
 *~
 
